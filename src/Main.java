@@ -3,7 +3,6 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hola a todos");
-
         System.out.println("COMANDOS GIT");
         System.out.println("git status- estado rama");
         System.out.println("git branch - ver las ramas");
